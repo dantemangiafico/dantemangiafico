@@ -15,6 +15,4 @@ I am a young student of Information Systems for Organizations. I consider myself
 - ✔ Ask me about anything, I will be glad to help you!😉<br>
 - 📫 Reach out to me at: <a href="mangiaficodante09@gmail.com">mangiaficodante09@gmail.com
 
-## My skills include
-
-<img scr="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"> 
+ 
